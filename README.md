@@ -35,5 +35,6 @@ Evita tener que lidiar con la consola services.msc de Windows o recordar comando
 
 2.Debe ejecutar el archivo con Privilegios de Administrador.
 
+3. Si detuvo los servicios de VMWare y al activarlos y arrancar una maquina no hay internet, pulsa la opcion 10 (no importa si la maquina virtual esta encendida)
 
 <img width="931" height="740" alt="Captura de pantalla 2026-06-19 221856" src="https://github.com/user-attachments/assets/008959cf-9a18-4409-9dde-37deecfb1512" />
